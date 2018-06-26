@@ -19,3 +19,4 @@ More indepth testing issues:
 
 ![People planning](hour_overview.png)
 ![Project planning](project_overview.png)
+![Load and availability heatmap](person_heatmap.png)
