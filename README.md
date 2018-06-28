@@ -1,5 +1,8 @@
 # RAVI_sprint
 
+Christiaan, Jisk, Nico, Lars
+
+Overview:
 - Usecases
 - Evaluate existing tools
 - Requirements for Ravi
