@@ -4,7 +4,7 @@
 - Evaluate existing tools
 - Requirements for Ravi
 
-- Use by different users?
+- Multiple users
   - Splitting data and code
   - Store data in a safe location
 - Better overview
